@@ -1,0 +1,1 @@
+lightqos-amd64.hybrid.zip filter=lfs diff=lfs merge=lfs -text
